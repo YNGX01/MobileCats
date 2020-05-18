@@ -1,0 +1,14 @@
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\bin\Debug\netstandard2.0\xiang.yang.5G.MobileCats.deps.json
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\bin\Debug\netstandard2.0\xiang.yang.5G.MobileCats.dll
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\bin\Debug\netstandard2.0\ref\xiang.yang.5G.MobileCats.dll
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\bin\Debug\netstandard2.0\xiang.yang.5G.MobileCats.pdb
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\xiang.yang.5G.MobileCats.csprojAssemblyReference.cache
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\xiang.yang.5G.MobileCats.csproj.CoreCompileInputs.cache
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\xiang.yang.5G.MobileCats.AssemblyInfoInputs.cache
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\xiang.yang.5G.MobileCats.AssemblyInfo.cs
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\xiang.yang.5G.MobileCats.dll
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\ref\xiang.yang.5G.MobileCats.dll
+C:\Users\yangx\Downloads\1805\xiang.yang.5G.MobileCats\xiang.yang.5G.MobileCats\obj\Debug\netstandard2.0\xiang.yang.5G.MobileCats.pdb
